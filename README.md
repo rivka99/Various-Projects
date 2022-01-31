@@ -20,6 +20,6 @@ Java:
 
 [Family Tree](https://gist.github.com/rivka99/ee21cf8c299cc5e28b4cca1462a3aa3e)
 
-[Sorting Algorithm](https://gist.github.com/rivka99/7a8bfa6bc325d85f9e931383cf4e955f)
+[Sorting Algorithms](https://gist.github.com/rivka99/7a8bfa6bc325d85f9e931383cf4e955f)
 
 [CSV Reader](https://gist.github.com/rivka99/9dd5e9512bf4ad0515809b4e631e874f)
