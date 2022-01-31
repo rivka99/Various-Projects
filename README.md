@@ -16,4 +16,8 @@ Java:
 
 [Java Bank](https://github.com/rivka99/Java-Bank)
 
+[File Reader](https://gist.github.com/rivka99/4c1bef33b016e6279174935ed0c6f161)
 
+[Family Tree](https://gist.github.com/rivka99/ee21cf8c299cc5e28b4cca1462a3aa3e)
+
+[Sorting Algorithm](https://gist.github.com/rivka99/7a8bfa6bc325d85f9e931383cf4e955f)
