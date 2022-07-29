@@ -1,6 +1,21 @@
 # Projects MasterList
 
 
+React:
+
+Chain Reaction Game:
+  [Github](https://github.com/rivka99/chain-reaction-game)
+  [Webpage](https://rivka99.github.io/chain-reaction-game/)
+[Library Project](https://github.com/rivka99/Library-project)
+
+[Bank of React](https://github.com/DannieC97/Assignment-09)
+
+Meopets Group Project
+  [Github-Frontend](https://github.com/lucylee-412/meopets-frontend)
+  [Github-Backend](https://github.com/lucylee-412/meopets-backend)
+  [Webpage](https://meopets.netlify.app/)
+
+
 Python:
 
 [Grocery Bagging Algorithm](https://gist.github.com/rivka99/e6b635841f84d10d2977827b8658462d)
@@ -29,9 +44,3 @@ SQL:
 
 [CSV Reader](https://gist.github.com/rivka99/9dd5e9512bf4ad0515809b4e631e874f)
 
-
-React:
-
-[Library Project](https://github.com/rivka99/Library-project)
-
-[Bank of React](https://github.com/DannieC97/Assignment-09)
