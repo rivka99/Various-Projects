@@ -3,12 +3,13 @@
 
 **React:**
 <br />
-Chain Reaction Game: <br />
-  [Github](https://github.com/rivka99/chain-reaction-game)<br />
-  [Webpage](https://rivka99.github.io/chain-reaction-game/)<br />
 [Library Project](https://github.com/rivka99/Library-project)<br />
 [Calculator](https://github.com/rivka99/calculator)<br />
 [Bank of React](https://github.com/DannieC97/Assignment-09)<br />
+
+Chain Reaction Game: <br />
+  [Github](https://github.com/rivka99/chain-reaction-game)<br />
+  [Webpage](https://rivka99.github.io/chain-reaction-game/)<br />
 
 Meopets Group Project<br />
   [Github-Frontend](https://github.com/lucylee-412/meopets-frontend)<br />
