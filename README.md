@@ -13,9 +13,10 @@ Meopets Group Project<br />
   [Github-Frontend](https://github.com/lucylee-412/meopets-frontend)<br />
   [Github-Backend](https://github.com/lucylee-412/meopets-backend)<br />
   [Webpage](https://meopets.netlify.app/)
-
+  
 <br />
-**Python:**<br />
+
+**Python:** <br />
 
 [Grocery Bagging Algorithm](https://gist.github.com/rivka99/e6b635841f84d10d2977827b8658462d)<br />
 
